@@ -1,0 +1,6 @@
+{
+  "name": "Thumbnail Studio AI",
+  "description": "AI Content Creation Studio with Text-to-Video Generator, YouTube thumbnail creator, character consistency, voice-over, music, subtitles, and full production workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

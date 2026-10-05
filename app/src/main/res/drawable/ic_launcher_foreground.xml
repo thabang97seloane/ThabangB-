@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera/Studio Body Base -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M32,38h32a6,6 0 0,1 6,6v24a6,6 0 0,1 -6,6H32a6,6 0 0,1 -6,-6V44a6,6 0 0,1 6,-6z" />
+    <!-- Camera Lens Cone -->
+    <path
+        android:fillColor="#818CF8"
+        android:pathData="M70,47l14,-9v34l-14,-9z" />
+    <!-- White Play Triangle Inside Camera -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,45l14,9l-14,9z" />
+    <!-- AI Sparkle Star Top Left -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M30,30c0,3.3 -2.7,6 -6,6c3.3,0 6,2.7 6,6c0,-3.3 2.7,-6 6,-6c-3.3,0 -6,-2.7 -6,-6z" />
+    <!-- AI Sparkle Star Top Right -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M80,26c0,2.5 -2,4.5 -4.5,4.5c2.5,0 4.5,2 4.5,4.5c0,-2.5 2,-4.5 4.5,-4.5c-2.5,0 -4.5,-2 -4.5,-4.5z" />
+    <!-- Film Strip Accent Dots Bottom -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M32,71h4v3h-4z M40,71h4v3h-4z M48,71h4v3h-4z M56,71h4v3h-4z M64,71h4v3h-4z" />
+</vector>
